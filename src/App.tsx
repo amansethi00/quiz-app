@@ -2,7 +2,6 @@ import "./styles.css";
 import { QuestionComponent } from "./components/QuestionComponent";
 import { QuizResult } from "./components/QuizResult";
 import { Home } from "./components/Home";
-import { ScoreHeader } from "./components/ScoreHeader";
 import { Routes, Route } from "react-router-dom";
 
 export default function App() {
