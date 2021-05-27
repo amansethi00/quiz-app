@@ -3,7 +3,6 @@ import { QuestionComponent } from "./components/QuestionComponent";
 import { QuizResult } from "./components/QuizResult";
 import { Home } from "./components/Home";
 import { Routes, Route } from "react-router-dom";
-
 export default function App() {
   return (
     <div className="App" style={{ paddingTop: "2rem" }}>
