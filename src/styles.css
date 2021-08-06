@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+* {
+  color: #dee0ed;
+  background-color: #353a64;
+}
+:root {
+  --btn-color: rgb(97, 110, 202);
+}
